@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "cabcb9ae775797c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c1002ff2d76cb20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "457c1838f34b4a2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyek dart/ABD.RAHMAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee95ba8fc69e2240",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4be17f426531b33c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8a385829203f3c68",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d7f48472da526bf6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "37e4402fc4e170b6",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "78c7d41125c5370e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "84dc7a18a1021881",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Proyek dart/ABD.RAHMAN.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "60e357f479782f91",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Proyek dart/ABD.RAHMAN.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3230bf71d69fd1ec",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Proyek dart/ABD.RAHMAN.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "457c1838f34b4a2f",
+  "lastOpenFiles": [
+    "Praktikum/Praktikum 5.md",
+    "Proyek dart/ABD.RAHMAN.md",
+    "Proyek dart",
+    "Screenshot_20240801-134916_Termux.jpg",
+    "Screenshot_20240801-134825_Termux.jpg",
+    "Screenshot_20240801-134739_Termux.jpg",
+    "Screenshot_20240801-134653_Termux.jpg",
+    "Screenshot_20240801-134605_Termux.jpg",
+    "Screenshot_20240801-134508_Termux.jpg",
+    "Screenshot_20240801-134424_Termux 1.jpg",
+    "Screenshot_20240801-134424_Termux.jpg",
+    "Screenshot_20240801-134321_Termux.jpg",
+    "Screenshot_20240801-134231_Termux 1.jpg",
+    "Basis data xii rpl 1.md",
+    "Praktikum",
+    "Basis data xii rpl1",
+    "Basis data/DCL.md",
+    "Basis data/DB + WEB.md",
+    "Basis data/Group BY.md",
+    "Basis data/LARAVEL.md",
+    "Basis data/TRIGGER.md",
+    "Basis data/SUB QUERY.md",
+    "Basis data/JOIN.md",
+    "Basis data/HEAVING.md",
+    "Basis data"
+  ]
+}
